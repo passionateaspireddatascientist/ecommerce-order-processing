@@ -69,7 +69,3 @@ Edit `appsettings.json`:
 | POST | `/api/orders` | Place order |
 | GET | `/api/orders/user/{userId}` | Get user order history |
 | PUT | `/api/orders/{id}/status` | Update order status |
-
-## Resume Description
-
-Built an E-Commerce Order Processing API using C#, ASP.NET Core Web API, SQL Server, Entity Framework Core, and LINQ. Implemented product management, cart management, order placement, order history, order status tracking, stock validation, CRUD operations, and API testing using Postman.
